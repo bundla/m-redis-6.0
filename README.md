@@ -4,7 +4,7 @@ Docker Compose module for the project [Bundla](https://github.com/tgaru/bundla).
 
 ## Specifications
 
-**Key name:** `bundla/m-redis-6.0`
+**Module-key:** `bundla/m-redis-6.0`
 
 **Image based:** [m-redis-6.0](https://hub.docker.com/_/redis)
 
