@@ -2,7 +2,7 @@ version: "1"
 env:
   laravel:
     REDIS_HOST: redis
-    REDIS_PASSWORD: null
+    REDIS_PASSWORD: "null"
     REDIS_PORT: 6379
 service:
   redis:
